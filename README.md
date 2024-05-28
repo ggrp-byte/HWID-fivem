@@ -1,8 +1,6 @@
 ## HWID-FiveM
 
-|[BUY!](patreon.com/HWID962)
-
-|[Download](patreon.com/HWID962)
+|[Download](https://patreon.com/HWID962)
 |:------------- |
 
 
@@ -10,7 +8,7 @@
 ## Easy To Use
 ## Customizable
 
-![image]([https://i.imgur.com/8dsH90O.png))
+![image](https://i.imgur.com/8dsH90O.png)
 
 ## Main features
 - Clear Traces
